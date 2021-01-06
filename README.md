@@ -98,13 +98,13 @@ As can be observed, the new script is able to run around **seven times** faster 
 - Advantages and Disadvantages of the Original and the Refactored VBA Script
     - The Original Code
         - Advantages:
-            1. Easier to understand
-            2. More intuitive to write
+            1. The code is easier to understand.
+            2. The code is more intuitive to write.
         - Disadvantages:
-            1. Longer run time
+            1. The code has longer run time.
     - The Refactored VBA Script
         - Advantages:
-            1. Faster run time
+            1. The analysis can be run faster.
         - Disadvantages:
-            1. More complex
-            2. Need more memory
+            1. The code is more more complex to read and write.
+            2. The code needs more memory to be allocated for it to run.
